@@ -28,7 +28,7 @@ These scripts are primarily for educational and personal use. While I strive to 
 
 ## Let's Connect
 
-I'm excited to share my Bash scripting journey with you! If you have any questions, suggestions, or just want to say hello, feel free to reach out via GitHub or [email/other contact method if applicable].
+I'm excited to share my Bash scripting journey with you! If you have any questions, suggestions, or just want to say hello, feel free to reach out via GitHub or lngtech008@gmail.com.
 
 Happy scripting! 💻✨
 
